@@ -20,3 +20,5 @@
   streamlit run app.py
   ```
   
+- `ML.ipynb` is the notebook file of the Data pre-processing & Machine Learning.
+- `Loan_Data` contains the Dataset of this project.
